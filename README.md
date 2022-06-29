@@ -61,8 +61,12 @@ The attributes of this data set include:
 
 ### 4. Investigating the `Coffee House` coupons:
 - 49.9% of coffee house coupons were accepted.
-- Drivers who accepted the coffee house coupons do likely go to a coffee house more than once a month. Among this group, drivers below the age of 21 OR drivers for whom the coffee house of the coupon is in the same direction as their current destination are more likely to accept coffee house coupons.
-- Drivers who accepted the coffee house coupons do likely go to a coffee house and are not with a kid in the car. Students driving at 10AM or 2PM are very likely to accept the coffee house coupons, and so are drivers who head to work under snowy weather.
+- Drivers who accepted the coffee house coupons do likely go to a coffee house more than once a month. Among this group, drivers below the age of 21 OR drivers for whom the coffee house of the coupon is in the same direction as their current destination OR drivers with income less than $12500 are more likely to accept coffee house coupons.
+- Students driving at 10AM or 2PM are very likely to accept the coffee house coupons, and so are drivers who head to work under snowy weather.
+
+### 5. Recommendations:
+- Distribute bar coupons to people who go to a bar more than once a month and are not with a kid in the car.
+- Distribute coffee house coupons to people below the age of 21, low-income people, people who are heading into the same direction as the coffee house, students driving at 10AM or 2PM, and people who head to work under snowy weather.
 
 
 ## Link to Notebook
